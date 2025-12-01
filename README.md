@@ -14,9 +14,9 @@ I build **high-performance backend systems** that scale. As a founding engineer 
 
 ```javascript
 const shivam = {
-  code: ["JavaScript", "TypeScript", "Node.js"],
+  code: ["C++","Java", "SpringBoot","Fastify", "JavaScript", "TypeScript", "Node.js"],
   architecture: ["Microservices", "Event-Driven", "Scalable Systems"],
-  databases: ["MongoDB", "Redis", "Replica Sets", "Sharding"],
+  databases: ["MongoDB","Postgres", "Redis", "Replica Sets", "Sharding"],
   performance: "2.5s → 180ms query optimization",
   passion: "Building systems that scale beautifully"
 };
